@@ -16,3 +16,4 @@ dependencies:
   - requests=2.22.0=py37_1
   - shapely=1.6.4
   - xarray=0.14.0=py_0
+  - netcdf4
